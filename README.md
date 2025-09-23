@@ -1,5 +1,3 @@
-### Project Title
-
 This project is an option extension to Saltcorn Reminders. It functions similarly but is easier to read and add new assignments. 
 
 ## Installation
